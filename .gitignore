@@ -3,4 +3,3 @@ backend/venv/
 
 # OpenAIなどの秘密キー
 backend/.env
-backend/.env
